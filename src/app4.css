@@ -6,6 +6,9 @@
     background: green;
   }
 }
+#app4 {
+  border: solid 1px black;
+}
 #app4 .circle {
   border: green solid 1px;
   width: 200px;
