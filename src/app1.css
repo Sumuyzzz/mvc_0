@@ -1,0 +1,8 @@
+#app1 {
+  display: flex;
+}
+
+#app1 .output {
+  justify-content: center;
+  align-items: center;
+}
